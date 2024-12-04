@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Student Manager</string>
+    <string name="appbar_title">Student Manager</string>
+    <string name="add_new">Add new</string>
+    <string name="remove">Remove</string>
+    <string name="edit">Edit</string>
+</resources>
